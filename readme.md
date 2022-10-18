@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Satya--Narayan--Patra-Software--Developer-green)
 
-## Project 8 [Live Link]()
+## Project 8 [Live Link](https://design-landing-page-09.netlify.app/)
 
 -   Skills Gained in this project
     -   Learned positioning elements
